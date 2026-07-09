@@ -1,12 +1,6 @@
 <h1 align="center">Delexo</h1>
 <h3 align="center">Cybersecurity & Digital Forensics · United States</h3>
 
-<p align="center">
-  <img src="https://github.com/Delexoo.png" width="120" style="border-radius: 50%;" alt="Delexo"/>
-</p>
-
-<br/>
-
 ## About
 
 hi, i'm delexo. i'm 19.
