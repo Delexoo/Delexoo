@@ -15,9 +15,7 @@
   <rect width="1200" height="240" fill="url(#bg)"/>
   <path d="M0,190 C200,150 400,230 600,190 C800,150 1000,230 1200,190 L1200,240 L0,240 Z" fill="url(#wave)" opacity="0.35"/>
   <path d="M0,205 C250,170 450,220 650,200 C850,180 1050,225 1200,205 L1200,240 L0,240 Z" fill="url(#wave)" opacity="0.55"/>
-  <text x="600" y="115" text-anchor="middle" fill="#e94560" font-family="Segoe UI, system-ui, sans-serif" font-size="80" font-weight="400">♡</text>
-  <text x="600" y="168" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, system-ui, sans-serif" font-size="20" font-weight="500" letter-spacing="4">CYBERSECURITY &amp; DIGITAL FORENSICS</text>
-  <line x1="420" y1="182" x2="780" y2="182" stroke="#30363d" stroke-width="1"/>
+  <text x="600" y="125" text-anchor="middle" fill="#e94560" font-family="Segoe UI, system-ui, sans-serif" font-size="80" font-weight="400">♡</text>
 </svg>
 
 </div>
