@@ -1,6 +1,3 @@
-<h1 align="center">Delexo</h1>
-<h3 align="center">Cybersecurity & Digital Forensics · United States</h3>
-
 ## About
 
 hi, i'm delexo. i'm 19.
