@@ -2,36 +2,14 @@
   <strong>Delexoo</strong>
 </p>
 
-<p align="center">
-  Developer · cybersecurity · digital forensics · open source
-</p>
-
-<p align="center">
-  <a href="https://delexo.store/">delexo.store</a> ·
-  <a href="https://github.com/Delexoo">GitHub</a> ·
-  <a href="https://t.me/delexoo">Telegram</a>
-</p>
-
 ---
 
 ## About
 
-Hi, I'm **Delexoo**. I'm 19 and I work in cybersecurity and digital forensics. I build software, websites, and open source projects.
+hi, i'm delexo. i'm 19.
 
-This repo is my GitHub profile README.
-
----
-
-## Projects
-
-| Project | What it is |
-|---------|------------|
-| [GitReplay](https://github.com/Delexoo/GitReplay) | Watch public GitHub repos build live in the browser |
-| [Free University Tools](https://github.com/Delexoo/freeuniversitytools) | Free tools directory for students |
-| [Serverly](https://github.com/Delexoo/Serverly) | Discord server layout wizard |
-| [Moonrise Web Agency](https://github.com/Delexoo/MoonriseWebAgency) | Sales team portal for our web agency |
-| [beats](https://github.com/Delexoo/beats) | Floating music player for Windows |
-| [Vanta](https://github.com/Delexoo/vanta) | Stock media landing page |
+into the cybersecurity & digital forensics field,
+i love games, and i love making things.
 
 ---
 
