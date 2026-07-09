@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:1a1a2e&height=280&section=header&text=Delexo&fontSize=62&fontColor=e94560&desc=Cybersecurity%20%26%20Digital%20Forensics&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn" width="100%" alt="Delexo banner"/>
-
-<br/>
-
-<img src="https://github.com/Delexoo.png" width="110" style="border-radius: 50%; border: 3px solid #e94560;" alt="Delexo"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,0d1117,28,161b22,55,1a1a2e,82,c73659,100,e94560&height=240&section=header&text=Delexo&fontSize=74&fontAlignY=40&fontColor=ffffff&stroke=ffffff&strokeWidth=0.4&animation=twinkling&desc=Cybersecurity%20%26%20Digital%20Forensics&descSize=17&descAlign=50&descAlignY=64" width="100%" alt="Delexo"/>
 
 </div>
 
@@ -32,64 +28,36 @@ i love games, and i love making things.
 <br/>
 
 <table>
-<tr valign="top">
-<td align="center" width="340">
-
-<table cellpadding="0" cellspacing="0">
 <tr>
-<td align="center" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 24px;">
+<td align="center" width="280">
 
-<p align="center">
-  <a href="https://namemc.com/Delexo"><img src="https://img.icons8.com/color/48/minecraft-logo.png" width="26" alt="Minecraft"/></a>
-  <br/><br/>
-  <strong>Minecraft</strong>
-  <br/>
-  <code>@delexo</code>
-</p>
+<strong>Minecraft</strong> · <code>@delexo</code>
 
-<br/>
+<br/><br/>
 
 <a href="https://namemc.com/Delexo">
-<img src="https://mc-heads.net/body/Delexo/128.png" alt="Minecraft skin — @delexo" width="128"/>
+<img src="https://mc-heads.net/avatar/Delexo/128.png" alt="Minecraft — @delexo" width="120" height="120"/>
 </a>
 
 <br/><br/>
 
-<a href="https://namemc.com/Delexo"><img src="https://img.shields.io/badge/View_on-NameMC-2ea043?style=flat-square" alt="View on NameMC"/></a>
+<a href="https://namemc.com/Delexo"><img src="https://img.shields.io/badge/NameMC-Profile-2ea043?style=flat-square" alt="NameMC Profile"/></a>
 
 </td>
-</tr>
-</table>
+<td width="32"></td>
+<td align="center" width="280">
 
-</td>
-<td width="20"></td>
-<td align="center" width="340">
+<strong>Geometry Dash</strong> · <code>@Vans</code>
 
-<table cellpadding="0" cellspacing="0">
-<tr>
-<td align="center" bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 24px;">
-
-<p align="center">
-  <a href="https://gdbrowser.com/u/vans"><img src="https://raw.githubusercontent.com/Delexoo/about-me/main/doc/icon.png" width="26" alt="Geometry Dash"/></a>
-  <br/><br/>
-  <strong>Geometry Dash</strong>
-  <br/>
-  <code>@Vans</code>
-</p>
-
-<br/>
+<br/><br/>
 
 <a href="https://gdbrowser.com/u/vans">
-<img src="https://raw.githubusercontent.com/Delexoo/about-me/main/doc/icon.png" alt="Geometry Dash — @Vans" width="128"/>
+<img src="https://raw.githubusercontent.com/Delexoo/about-me/main/doc/icon.png" alt="Geometry Dash — @Vans" width="120" height="120"/>
 </a>
 
 <br/><br/>
 
-<a href="https://gdbrowser.com/u/vans"><img src="https://img.shields.io/badge/View_on-GD_Browser-8957e5?style=flat-square" alt="View on GD Browser"/></a>
-
-</td>
-</tr>
-</table>
+<a href="https://gdbrowser.com/u/vans"><img src="https://img.shields.io/badge/GD_Browser-Profile-8957e5?style=flat-square" alt="GD Browser Profile"/></a>
 
 </td>
 </tr>
@@ -160,7 +128,7 @@ i love games, and i love making things.
   <a href="https://www.openwall.com/john/" title="John the Ripper"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" alt="John the Ripper"/></a>&nbsp;
   <a href="https://www.maltego.com/" title="Maltego"><img src="https://www.google.com/s2/favicons?domain=maltego.com&sz=128" width="44" alt="Maltego"/></a>&nbsp;
   <a href="https://www.spiderfoot.net/" title="SpiderFoot"><img src="https://www.google.com/s2/favicons?domain=spiderfoot.net&sz=128" width="44" alt="SpiderFoot"/></a>&nbsp;
-  <a href="https://osintframework.com/" title="OSINT Framework"><img src="https://img.icons8.com/fluency/48/spy-male.png" width="44" alt="OSINT Framework"/></a>&nbsp;
+  <a href="https://osintframework.com/" title="OSINT Framework"><img src="https://raw.githubusercontent.com/Delexoo/MoonriseWebAgency/main/doc/osint-framework.svg" width="44" alt="OSINT Framework"/></a>&nbsp;
   <a href="https://www.bettercap.org/" title="Bettercap"><img src="https://www.google.com/s2/favicons?domain=bettercap.org&sz=128" width="44" alt="Bettercap"/></a>&nbsp;
   <a href="https://www.virtualbox.org/" title="Oracle VM VirtualBox"><img src="https://cdn.simpleicons.org/virtualbox/183A61" width="44" alt="Oracle VM VirtualBox"/></a>
 </p>
