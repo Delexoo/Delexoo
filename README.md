@@ -1,3 +1,19 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1a2e&height=170&section=header&text=Delexo&fontSize=52&fontColor=e94560&animation=twinkling&desc=Cybersecurity%20%26%20Digital%20Forensics&descSize=14&descAlignY=68&descAlign=50"/>
+
+<br/>
+
+<img src="https://github.com/Delexoo.png" width="125" style="border-radius: 50%; border: 3px solid #e94560;" alt="Delexo"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=18&duration=3000&pause=1200&color=E94560&center=true&vCenter=true&width=500&lines=19+%C2%B7+United+States+%C2%B7+Builder;i+love+making+things" alt="Typing animation"/>
+
+</div>
+
+<br/>
+
 ## About
 
 hi, i'm delexo. i'm 19.
@@ -12,27 +28,25 @@ majoring in cybersecurity & digital forensics in the united states. i love makin
 
 <div align="center">
 
-<a href="https://delexo.store/"><img src="https://img.shields.io/badge/My_Store-delexo.store-e94560?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Store"/></a>
-&nbsp;
-<a href="https://t.me/delexoo"><img src="https://img.shields.io/badge/Telegram-@delexoo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-&nbsp;
-<a href="https://github.com/Delexoo"><img src="https://img.shields.io/badge/GitHub-@Delexoo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-&nbsp;
-<a href="mailto:contact@delexo.store"><img src="https://img.shields.io/badge/Email-contact@delexo.store-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-&nbsp;
-<a href="https://freeuniversitytools.com"><img src="https://img.shields.io/badge/Free_University_Tools-Visit-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Free University Tools"/></a>
+<p>
+  <a href="https://delexo.store/" title="delexo.store"><img src="https://www.google.com/s2/favicons?domain=delexo.store&sz=128" width="44" alt="delexo.store"/></a>&nbsp;&nbsp;
+  <a href="https://t.me/delexoo" title="Telegram @delexoo"><img src="https://cdn.simpleicons.org/telegram/26A5E0" width="44" alt="Telegram"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/Delexoo" title="GitHub @Delexoo"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"/></a>
+</p>
 
-<br/><br/>
+<br/>
 
 <table>
-<tr>
-<td align="center" width="240">
+<tr valign="top">
+<td align="center" width="280">
 
+<table>
+<tr><td height="200" align="center" valign="middle">
 <a href="https://namemc.com/Delexo">
 <img src="https://mc-heads.net/body/Delexo/128.png" alt="Minecraft skin — @delexo" width="120"/>
 </a>
-
-<br/>
+</td></tr>
+</table>
 
 <img src="https://img.icons8.com/color/48/minecraft-logo.png" width="20" alt="Minecraft"/>
 &nbsp;<strong>Minecraft</strong>&nbsp;<code>@delexo</code>
@@ -42,19 +56,22 @@ majoring in cybersecurity & digital forensics in the united states. i love makin
 <a href="https://namemc.com/Delexo"><img src="https://img.shields.io/badge/NameMC-View_Profile-62B47A?style=flat-square" alt="NameMC Profile"/></a>
 
 </td>
-<td width="48"></td>
-<td align="center" width="240">
+<td align="center" width="280">
 
+<table>
+<tr><td height="200" align="center" valign="middle">
+<a href="https://gdbrowser.com/u/vans">
 <img src="https://raw.githubusercontent.com/Delexoo/about-me/main/doc/icon.png" alt="Geometry Dash — @Vans" width="120"/>
-
-<br/>
+</a>
+</td></tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/Delexoo/about-me/main/doc/icon.png" width="20" alt="Geometry Dash"/>
 &nbsp;<strong>Geometry Dash</strong>&nbsp;<code>@Vans</code>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Username-Vans-7B2CBF?style=flat-square" alt="Geometry Dash @Vans"/>
+<a href="https://gdbrowser.com/u/vans"><img src="https://img.shields.io/badge/GD_Browser-View_Profile-7B2CBF?style=flat-square" alt="GD Browser Profile"/></a>
 
 </td>
 </tr>
@@ -104,13 +121,13 @@ majoring in cybersecurity & digital forensics in the united states. i love makin
 
 <p align="left">
   <a href="https://www.kali.org/" title="Kali Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="44" alt="Kali Linux"/></a>&nbsp;
-  <a href="https://www.wireshark.org/" title="Wireshark"><img src="https://img.icons8.com/color/48/wireshark.png" width="44" alt="Wireshark"/></a>&nbsp;
+  <a href="https://www.wireshark.org/" title="Wireshark"><img src="https://www.google.com/s2/favicons?domain=wireshark.org&sz=128" width="44" alt="Wireshark"/></a>&nbsp;
   <a href="https://nmap.org/" title="Nmap"><img src="https://www.google.com/s2/favicons?domain=nmap.org&sz=128" width="44" alt="Nmap"/></a>&nbsp;
   <a href="https://www.metasploit.com/" title="Metasploit"><img src="https://www.google.com/s2/favicons?domain=metasploit.com&sz=128" width="44" alt="Metasploit"/></a>&nbsp;
   <a href="https://www.openwall.com/john/" title="John the Ripper"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" alt="John the Ripper"/></a>&nbsp;
   <a href="https://www.maltego.com/" title="Maltego"><img src="https://www.google.com/s2/favicons?domain=maltego.com&sz=128" width="44" alt="Maltego"/></a>&nbsp;
   <a href="https://www.spiderfoot.net/" title="SpiderFoot"><img src="https://www.google.com/s2/favicons?domain=spiderfoot.net&sz=128" width="44" alt="SpiderFoot"/></a>&nbsp;
-  <a href="https://osintframework.com/" title="OSINT"><img src="https://img.icons8.com/fluency/48/internet-security.png" width="44" alt="OSINT"/></a>&nbsp;
+  <a href="https://osintframework.com/" title="OSINT"><img src="https://img.icons8.com/color/48/investigation.png" width="44" alt="OSINT"/></a>&nbsp;
   <a href="https://www.bettercap.org/" title="Bettercap"><img src="https://www.google.com/s2/favicons?domain=bettercap.org&sz=128" width="44" alt="Bettercap"/></a>&nbsp;
   <a href="https://www.virtualbox.org/" title="Oracle VM VirtualBox"><img src="https://cdn.simpleicons.org/virtualbox/183A61" width="44" alt="Oracle VM VirtualBox"/></a>
 </p>
@@ -127,7 +144,10 @@ majoring in cybersecurity & digital forensics in the united states. i love makin
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Delexoo&theme=tokyonight&hide_border=true&background=0D1117&stroke=E94560&ring=E94560&fire=E94560&currStreakLabel=E94560" height="170" alt="Contribution streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delexoo&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9&langs_count=10&custom_title=Most%20Used%20Languages" height="280" alt="Most used languages"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Delexoo&theme=tokyonight" width="100%" alt="Most used languages"/>
 
 <br/><br/>
 
