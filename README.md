@@ -1,6 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,0d1117,28,161b22,55,1a1a2e,82,c73659,100,e94560&height=240&section=header&text=Delexo&fontSize=74&fontAlignY=40&fontColor=ffffff&stroke=ffffff&strokeWidth=0.4&animation=twinkling&desc=Cybersecurity%20%26%20Digital%20Forensics&descSize=17&descAlign=50&descAlignY=64" width="100%" alt="Delexo"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" role="img" aria-label="Delexo — Cybersecurity and Digital Forensics">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c73659"/>
+      <stop offset="100%" stop-color="#e94560"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <path d="M0,190 C200,150 400,230 600,190 C800,150 1000,230 1200,190 L1200,240 L0,240 Z" fill="url(#wave)" opacity="0.35"/>
+  <path d="M0,205 C250,170 450,220 650,200 C850,180 1050,225 1200,205 L1200,240 L0,240 Z" fill="url(#wave)" opacity="0.55"/>
+  <text x="600" y="108" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, system-ui, sans-serif" font-size="72" font-weight="700" letter-spacing="2">Delexo</text>
+  <text x="600" y="152" text-anchor="middle" fill="#e94560" font-family="Segoe UI, system-ui, sans-serif" font-size="22" font-weight="500" letter-spacing="4">CYBERSECURITY &amp; DIGITAL FORENSICS</text>
+  <line x1="420" y1="168" x2="780" y2="168" stroke="#30363d" stroke-width="1"/>
+</svg>
 
 </div>
 
@@ -67,16 +85,63 @@ i love games, and i love making things.
 
 <br/>
 
-## Credentials
+## Certifications
 
-| | Certification |
-| :--: | :--- |
-| <img src="https://raw.githubusercontent.com/Delexoo/MoonriseWebAgency/main/doc/Verified.png" width="16" alt="verified"/> | Harvard CS50 Certificate |
-| <img src="https://raw.githubusercontent.com/Delexoo/MoonriseWebAgency/main/doc/Verified.png" width="16" alt="verified"/> | Google Cybersecurity Certificate |
-| <img src="https://raw.githubusercontent.com/Delexoo/MoonriseWebAgency/main/doc/Verified.png" width="16" alt="verified"/> | Cybersecurity for Business · Harvard VPAL |
-| <img src="https://raw.githubusercontent.com/Delexoo/MoonriseWebAgency/main/doc/Verified.png" width="16" alt="verified"/> | The Ultimate Dark Web, Anonymity, Privacy & Security Course |
-| <img src="https://raw.githubusercontent.com/Delexoo/MoonriseWebAgency/main/doc/Verified.png" width="16" alt="verified"/> | Learn Ethical Hacking From Scratch |
-| <img src="https://raw.githubusercontent.com/Delexoo/MoonriseWebAgency/main/doc/Verified.png" width="16" alt="verified"/> | 100 Days of Code: The Complete Python Pro Bootcamp |
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Verified-2ea043?style=flat-square" alt="Verified"/>
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-e94560?style=flat-square" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/Focus-Digital_Forensics-161b22?style=flat-square" alt="Digital Forensics"/>
+
+<br/><br/>
+
+<sub>Verified credentials in computer science, cybersecurity, and software development.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<th width="40"></th>
+<th align="left">Certification</th>
+<th align="left">Issuer</th>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/Delexoo/MoonriseWebAgency/main/doc/Verified.png" width="18" alt="Verified"/></td>
+<td align="left"><strong>CS50: Introduction to Computer Science</strong></td>
+<td align="left">Harvard University</td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/Delexoo/MoonriseWebAgency/main/doc/Verified.png" width="18" alt="Verified"/></td>
+<td align="left"><strong>Google Cybersecurity Professional Certificate</strong></td>
+<td align="left">Google</td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/Delexoo/MoonriseWebAgency/main/doc/Verified.png" width="18" alt="Verified"/></td>
+<td align="left"><strong>Cybersecurity for Business</strong></td>
+<td align="left">Harvard VPAL</td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/Delexoo/MoonriseWebAgency/main/doc/Verified.png" width="18" alt="Verified"/></td>
+<td align="left"><strong>The Ultimate Dark Web, Anonymity, Privacy &amp; Security</strong></td>
+<td align="left">Udemy</td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/Delexoo/MoonriseWebAgency/main/doc/Verified.png" width="18" alt="Verified"/></td>
+<td align="left"><strong>Learn Ethical Hacking From Scratch</strong></td>
+<td align="left">Udemy</td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/Delexoo/MoonriseWebAgency/main/doc/Verified.png" width="18" alt="Verified"/></td>
+<td align="left"><strong>100 Days of Code: The Complete Python Pro Bootcamp</strong></td>
+<td align="left">Udemy</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
