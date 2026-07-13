@@ -1,25 +1,3 @@
-<div align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" role="img" aria-label="♡">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="55%" stop-color="#161b22"/>
-      <stop offset="100%" stop-color="#1a1a2e"/>
-    </linearGradient>
-    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#c73659"/>
-      <stop offset="100%" stop-color="#e94560"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="240" fill="url(#bg)"/>
-  <path d="M0,190 C200,150 400,230 600,190 C800,150 1000,230 1200,190 L1200,240 L0,240 Z" fill="url(#wave)" opacity="0.35"/>
-  <path d="M0,205 C250,170 450,220 650,200 C850,180 1050,225 1200,205 L1200,240 L0,240 Z" fill="url(#wave)" opacity="0.55"/>
-  <text x="600" y="125" text-anchor="middle" fill="#e94560" font-family="Segoe UI, system-ui, sans-serif" font-size="80" font-weight="400">♡</text>
-</svg>
-
-</div>
-
 <br/>
 
 ## About
